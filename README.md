@@ -45,7 +45,7 @@ This creates an isolated agent with its own workspace, auth, and routing. See [`
 
 ```bash
 cd ~/.openclaw/workspace-kali-claw/
-git clone https://github.com/<repo-path>.git .
+git clone https://github.com/whoc666/kali-claw.git .
 ```
 
 The agent will automatically read `SOUL.md`, `AGENTS.md`, `USER.md`, and `MEMORY.md` on startup to initialize its identity and context.
